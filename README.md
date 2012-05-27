@@ -21,9 +21,9 @@ example:
     2012-05-01 1000 1045 added =6c93a1960072710c6677682a7816ba9e48b7528f to +hours.
     ...
 
-## timekeeping structure
+## line structure
 
-every shift has 4 fields separated by spaces:
+every line has 4 fields separated by spaces:
 
 1. date (formatted YYYY-MM-DD)
 2. time in (formatted HHMM)
